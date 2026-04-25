@@ -55,3 +55,6 @@ Real-world NLP pipeline from raw text to actionable insights
 Handling noisy, unstructured social media data
 Data visualization for non-technical stakeholders
 Applied Python for end-to-end data science workflow
+
+Author
+Kavya S
